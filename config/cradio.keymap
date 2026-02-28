@@ -9,7 +9,8 @@
 #include <dt-bindings/zmk/pointing.h>
 
 &mt { quick-tap-ms = <150>; };
-
+//
+//
 / {
     behaviors {
         ht: hold_tap {
